@@ -15,7 +15,7 @@ Key outcomes of this implementation include:
 Through the notebook file *MICN.pynb* we provide a detailed, step-by-step explanation of each code block implementation.
 
 # How to run the code
-Before running the notebook, it is necessary to load the datasets on which you want to train the model. All the datasets used were placed in the *datasets* folder of this repo. So, you need first to upload the dataset into the notebook. <br> 
+Before running the notebook, it is necessary to load the datasets on which you want to train the model. All the datasets used were placed in the *datasets* folder of this repo.<br>
 
 After, in the *Training code* paragraph of the notebook, all the hyper-parameters are set, including auxiliary variables such as the name of the dataset that you want to use as input. <br>
 Also, you can choose the *prediction lenght* or whether to use a *mean* or *regression* to predict the trend of the series. <br>
