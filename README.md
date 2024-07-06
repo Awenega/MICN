@@ -31,4 +31,4 @@ Some types of tests, i.e., those involving datasets with very large and with mor
 
 As we can see from the table below, we were able to obtain results very close to those presented in the paper. The table on the left represents the results of the original paper, while the table on the right represents the results of our model. <br>
 
-![Results](https://github.com/Awenega/MICN/blob/main/results.png?raw=true)
+![Results](https://github.com/Awenega/MICN/blob/main/images/results.png?raw=true)
